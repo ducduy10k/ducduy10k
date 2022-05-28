@@ -61,6 +61,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
@@ -72,12 +73,12 @@
 
 <!-- YOUTUBE:START -->
 
-- [The Edge is the Future! What are Edge Functions? Exploring Netlify Edge Functions](https://www.youtube.com/watch?v=mQwWWxYd-SY)
-- [Fastest Upgrade to React 18!! Only 1 Second! 🤯](https://www.youtube.com/watch?v=JLyVyURIWG0)
-- [5 Reasons You Should NOT Create an NFT Collection!!](https://www.youtube.com/watch?v=1ktrrwasouc)
-- [Do You Need To Know Web Dev To Become A Web3 Developer? With Hashlips](https://www.youtube.com/watch?v=oQBRZMo0e34)
-- [BEST Mint From Site &lpar;dapp&rpar; - Entire Process! Whitelist &amp; Launch an NFT Collection &lpar;10,000+&rpar;](https://www.youtube.com/watch?v=cLB7u0KQFIs)
+- [#01.Tạo bản đồ miễn phí trên trang web bằng Mapbox - Create a free map of the website using Mapbox](https://www.youtube.com/watch?v=CVFRcJQK3yA)
+- [Input only number - Ô text chỉ nhập số Angular Directive 🤯](https://www.youtube.com/watch?v=SCe5dK-0jrI)
+- [Create scrollbar like youtube using HTML CSS](https://www.youtube.com/watch?v=fnpRSqDKab0)
 <!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCsq5KHaN6zZpM4BYrElb2mQ)
 
 ## License
 
