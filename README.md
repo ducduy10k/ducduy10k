@@ -63,8 +63,6 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCsq5KHaN6zZpM4BYrElb2mQ)
-
 ## License
 
 [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
