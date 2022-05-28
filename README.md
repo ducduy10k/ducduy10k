@@ -72,10 +72,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
-- [#01.Tạo bản đồ miễn phí trên trang web bằng Mapbox - Create a free map of the website using Mapbox](https://www.youtube.com/watch?v=CVFRcJQK3yA)
-- [Input only number - Ô text chỉ nhập số Angular Directive 🤯](https://www.youtube.com/watch?v=SCe5dK-0jrI)
-- [Create scrollbar like youtube using HTML CSS](https://www.youtube.com/watch?v=fnpRSqDKab0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsq5KHaN6zZpM4BYrElb2mQ)
