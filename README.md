@@ -65,6 +65,11 @@
 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## License
 
 [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
