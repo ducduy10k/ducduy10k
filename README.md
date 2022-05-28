@@ -1,5 +1,8 @@
 ### Hi there 👋
-name: Waka Readme
+- uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: https://wakapi.dev/api
 <!--
 **ducduy10k/ducduy10k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
