@@ -61,6 +61,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#09. Control Mapbox part 2](https://www.youtube.com/watch?v=xInm8yicmxM)
+- [Input only number - Ô text chỉ nhập số Angular Directive](https://www.youtube.com/watch?v=SCe5dK-0jrI)
+- [#08. Control Mapbox](https://www.youtube.com/watch?v=yCZwUrPmzvs)
+- [Create scrollbar like youtube using HTML CSS](https://www.youtube.com/watch?v=fnpRSqDKab0)
+- [#07. Marker Mapbox](https://www.youtube.com/watch?v=aXzO_flEdGE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more blog posts...](https://www.youtube.com/channel/UCsq5KHaN6zZpM4BYrElb2mQ)
