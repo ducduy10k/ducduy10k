@@ -68,7 +68,7 @@
 - [#07. Marker Mapbox](https://www.youtube.com/watch?v=aXzO_flEdGE)
 <!-- YOUTUBE:END -->
 
-➡️ [more blog posts...](https://www.youtube.com/channel/UCsq5KHaN6zZpM4BYrElb2mQ)
+➡️ [more videos...](https://www.youtube.com/channel/UCsq5KHaN6zZpM4BYrElb2mQ)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
