@@ -74,11 +74,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Sử dụng mapbox GL js trong angular](https://www.youtube.com/watch?v=mDKnh4Vy4Ek)
 - [Host binding vs host listener trong angular](https://www.youtube.com/watch?v=rajNPknNEeU)
 - [Host static web trên S3](https://www.youtube.com/watch?v=R-w9awPPxfQ)
 - [#11. Custom control Mapbox GL js](https://www.youtube.com/watch?v=Btxu1TRVG00)
 - [#10. Control mapbox part 3 - Mapbox tutorial](https://www.youtube.com/watch?v=SEwJ65NOyx0)
-- [Read and convert shp files, kml files, shp archives to geojson and add them to the map](https://www.youtube.com/watch?v=KBP6t5_pyA8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsq5KHaN6zZpM4BYrElb2mQ)
