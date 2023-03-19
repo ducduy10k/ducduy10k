@@ -5,7 +5,7 @@
 <img align="right" src="https://img.freepik.com/free-vector/cute-rabbit-with-duck-working-laptop-cartoon-illustration_56104-471.jpg?w=740&t=st=1671969348~exp=1671969948~hmac=4a1d91f96f1d1f9909b789e096179a0ed75ff1a90e6d95b25365faefc495c0ee" width=220/>
 
 
-- 🔭 I’m currently working on RikkeiSoft
+- 🔭 I’m currently working on MSB
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: [Facebook](https://www.facebook.com/nguyenduy1011/)
