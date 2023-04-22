@@ -74,11 +74,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#13. Popup mapbox GL js](https://www.youtube.com/watch?v=bzNCL8sps2k)
 - [Row edit table PrimeNG với reactive form Angular](https://www.youtube.com/watch?v=Zm4hsuq1Uxc)
 - [#12. Style mapbox GL js](https://www.youtube.com/watch?v=6iPeWmSYTA0)
 - [Sử dụng mapbox GL js trong angular](https://www.youtube.com/watch?v=mDKnh4Vy4Ek)
 - [Host binding vs host listener trong angular](https://www.youtube.com/watch?v=rajNPknNEeU)
-- [Host static web trên S3](https://www.youtube.com/watch?v=R-w9awPPxfQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsq5KHaN6zZpM4BYrElb2mQ)
