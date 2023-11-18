@@ -74,11 +74,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tất tần tật về Pipe trong Angular P2 &lpar;Hết&rpar;](https://www.youtube.com/watch?v=UIotfEJE91s)
 - [Tất tần tật về Pipe trong Angular P1](https://www.youtube.com/watch?v=2lwcvJbZQ_I)
 - [#14. PanTo mapbox](https://www.youtube.com/watch?v=2KMpnznf76M)
 - [#13. Popup mapbox GL js](https://www.youtube.com/watch?v=bzNCL8sps2k)
 - [Row edit table PrimeNG với reactive form Angular](https://www.youtube.com/watch?v=Zm4hsuq1Uxc)
-- [#12. Style mapbox GL js](https://www.youtube.com/watch?v=6iPeWmSYTA0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsq5KHaN6zZpM4BYrElb2mQ)
