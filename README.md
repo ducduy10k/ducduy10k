@@ -74,7 +74,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Tất tần tật về Pipe trong Angular P2 &lpar;Hết&rpar;](https://www.youtube.com/watch?v=UIotfEJE91s)
+- [Tất tần tật về Pipe trong Angular P2 &lpar;END&rpar;](https://www.youtube.com/watch?v=UIotfEJE91s)
 - [Tất tần tật về Pipe trong Angular P1](https://www.youtube.com/watch?v=2lwcvJbZQ_I)
 - [#14. PanTo mapbox](https://www.youtube.com/watch?v=2KMpnznf76M)
 - [#13. Popup mapbox GL js](https://www.youtube.com/watch?v=bzNCL8sps2k)
