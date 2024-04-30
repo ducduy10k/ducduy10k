@@ -74,11 +74,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tính năng mới trong Angular 17](https://www.youtube.com/watch?v=MyGZq0QBctA)
 - [5 câu nói ý nghĩa trong cuộc sống](https://www.youtube.com/watch?v=ANEJMB8tUGQ)
 - [Tất tần tật về Pipe trong Angular P2 &lpar;END&rpar;](https://www.youtube.com/watch?v=UIotfEJE91s)
 - [Tất tần tật về Pipe trong Angular P1](https://www.youtube.com/watch?v=2lwcvJbZQ_I)
 - [#14. PanTo mapbox](https://www.youtube.com/watch?v=2KMpnznf76M)
-- [#13. Popup mapbox GL js](https://www.youtube.com/watch?v=bzNCL8sps2k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsq5KHaN6zZpM4BYrElb2mQ)
