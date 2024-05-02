@@ -74,7 +74,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [@if trong Angular 17 #angular17](https://www.youtube.com/watch?v=QwyCwZcQW4c)
+- [@if trong angular 17 #angular#if](https://www.youtube.com/watch?v=u2HwlpdLi9w)
 - [Tính năng mới trong Angular 17](https://www.youtube.com/watch?v=MyGZq0QBctA)
 - [5 câu nói ý nghĩa trong cuộc sống](https://www.youtube.com/watch?v=ANEJMB8tUGQ)
 - [Tất tần tật về Pipe trong Angular P2 &lpar;END&rpar;](https://www.youtube.com/watch?v=UIotfEJE91s)
