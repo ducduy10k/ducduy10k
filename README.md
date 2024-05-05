@@ -74,11 +74,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [@for và @empty angular #angular #angular17#@for #frontend#empty](https://www.youtube.com/watch?v=-RbSbvFycz0)
 - [So sánh ngIf vs @if angular #angular #angular17 #new #frontend](https://www.youtube.com/watch?v=yJ4I9EkdNq0)
 - [@if trong angular 17 #angular#if](https://www.youtube.com/watch?v=u2HwlpdLi9w)
 - [Tính năng mới trong Angular 17](https://www.youtube.com/watch?v=MyGZq0QBctA)
 - [5 câu nói ý nghĩa trong cuộc sống](https://www.youtube.com/watch?v=ANEJMB8tUGQ)
-- [Tất tần tật về Pipe trong Angular P2 &lpar;END&rpar;](https://www.youtube.com/watch?v=UIotfEJE91s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsq5KHaN6zZpM4BYrElb2mQ)
