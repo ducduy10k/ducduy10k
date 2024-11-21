@@ -74,11 +74,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tải java 21 và cài đặt JAVA_HOME cho mac M1, M2](https://www.youtube.com/watch?v=8tJuRLV6-BM)
 - [@switch trong angular #angular #angular17 #frontend#switch#case#default](https://www.youtube.com/watch?v=yu4RVQpGijU)
 - [@for và @empty angular #angular #angular17#@for #frontend#empty](https://www.youtube.com/watch?v=-RbSbvFycz0)
 - [So sánh ngIf vs @if angular #angular #angular17 #new #frontend](https://www.youtube.com/watch?v=yJ4I9EkdNq0)
 - [@if trong angular 17 #angular#if](https://www.youtube.com/watch?v=u2HwlpdLi9w)
-- [Tính năng mới trong Angular 17](https://www.youtube.com/watch?v=MyGZq0QBctA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsq5KHaN6zZpM4BYrElb2mQ)
